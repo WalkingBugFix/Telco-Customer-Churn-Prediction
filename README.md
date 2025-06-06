@@ -1,3 +1,5 @@
+**Dataset:** https://www.kaggle.com/datasets/blastchar/telco-customer-churn/suggestions
+
 **Objective**
 The goal of this project is to analyze customer behavior and predict churn in a telecommunications company using historical customer data. The insights gained will be used to design targeted customer retention programs aimed at reducing churn and improving customer lifetime value.
 
